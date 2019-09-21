@@ -82,6 +82,32 @@ _ _ _
 
 ### Courses
 
+
+ > - [RssNewConsole](https://github.com/PiterPoker/RssNewConsole)
+ > - [NewsRssWeb](https://github.com/PiterPoker/NewsRssWeb)
+ > - [EcoZone](https://github.com/PiterPoker/EcoZone)
+ > - [DataBaseLib](https://github.com/PiterPoker/DataBaseLib)
+
+_ _ _
+
+
+## EDUCATION 
+
+
+### College of Electronics
+
+
+ 1. **level:** Computers Exploitation Speciality, PC Operator qualification 7th degree
+ 2. **level:** IT Software Speciality, Technical Programmer qualification (college degree)
+
+
+### Belarusian State University of Informatics and Radioelectronics
+
+
+ Fculty of computer systems and networks, Bachelor's degree
+
+### Courses
+
   Sololearn:
   
 
@@ -91,6 +117,7 @@ _ _ _
  > - [JavaScript](https://www.sololearn.com/Certificate/1024-5187742/pdf/)
 
 
-_ _ _
+## ENGLISH
 
 
+### English - A1 - Basic
