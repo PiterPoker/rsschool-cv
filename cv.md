@@ -89,3 +89,35 @@ _ _ _
  > - [DataBaseLib](https://github.com/PiterPoker/DataBaseLib)
 
 _ _ _
+
+
+## EDUCATION 
+
+
+### College of Electronics
+
+
+ 1. **level:** Computers Exploitation Speciality, PC Operator qualification 7th degree
+ 2. **level:** IT Software Speciality, Technical Programmer qualification (college degree)
+
+
+### Belarusian State University of Informatics and Radioelectronics
+
+
+ Fculty of computer systems and networks, Bachelor's degree
+
+### Courses
+
+  Sololearn:
+  
+
+ > - [C++](https://www.sololearn.com/Certificate/1051-5187742/pdf/)
+ > - [C#](https://www.sololearn.com/Certificate/1080-5187742/pdf/)
+ > - [SQL](https://www.sololearn.com/Certificate/1060-5187742/pdf/)
+ > - [JavaScript](https://www.sololearn.com/Certificate/1024-5187742/pdf/)
+
+
+## ENGLISH
+
+
+### English - A1 - Basic
