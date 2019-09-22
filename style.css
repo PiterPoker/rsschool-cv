@@ -37,13 +37,13 @@ body, .nav{
     padding: 20px 0px 20px;
 }
 
-li a{
+.nav li a{
     color: white;
     text-decoration: none; 
     padding: 20px;   
 }
 
-a:hover{
+.nav li a:hover{
     background-color: white;
     color: rgb(44, 69, 151); 
 }
@@ -81,7 +81,6 @@ p a{
     justify-content: center;
 }
 .photo img{
-    padding-left: 30px;
     max-width: 300px;
     max-height: 300px;
     grid-row: 1 / 2;
@@ -101,4 +100,27 @@ p a{
 .info > ul > li{
     padding: 10px;
     justify-content: center;
+}
+
+p .skill{
+    font-size: 20px;  
+}
+
+.job-container {
+    display: grid;
+    grid-template-columns: 2fr 2fr 1fr 5fr;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+.title-item, .job-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgb(44, 69, 151);
+    padding: 10px;
+    text-align: center;
+}
+
+.title-item{    
+    font-size: 16px;
+    font: bolder;
 }
