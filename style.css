@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(228, 228, 228);
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+
+.grid{
+    position: relative;
+    top: 64px;
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+}
+
+@media screen and (min-width: 1140px) {
+    .grid {
+        grid-template-columns: 2fr 1024px 2fr;
+    }
+}
+ 
+@media screen and (max-width: 1320px) {
+    .grid {                
+        top: 128px;
+    }
+}
+
+@media screen and (max-width: 695px) {
+    .grid {        
+        display: inline-block;        
+        top: 192px;
+    }
+}
+
+body, .nav{
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    background-color: rgb(44, 69, 151); 
+    list-style-type: none;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+}
+  
+.nav li {    
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
+
+li a{
+    color: white;
+    text-decoration: none; 
+    padding: 20px;   
+}
+
+a:hover{
+    background-color: white;
+    color: rgb(44, 69, 151); 
+}
