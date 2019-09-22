@@ -7,7 +7,7 @@ body {
     position: relative;
     top: 64px;
     display: grid;
-    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-columns: 1fr 2fr 1fr; 
 }
 
 @media screen and (min-width: 1140px) {
@@ -31,7 +31,7 @@ body {
 
 body, .nav{
     margin: 0;
-    padding: 0;
+    padding: 0;    
 }
 
 .nav {
@@ -58,4 +58,20 @@ li a{
 a:hover{
     background-color: white;
     color: rgb(44, 69, 151); 
+}
+
+footer{
+    display: block;
+    background-color: rgb(44, 69, 151);
+    height: 50px;
+    text-align: center;
+}
+footer p{
+    padding-top: 15px;
+    font-size: 20px;
+    color: white;
+}
+p a{    
+    color: white;
+    text-decoration: none; 
 }
